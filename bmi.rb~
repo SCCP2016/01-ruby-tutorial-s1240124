@@ -1,0 +1,7 @@
+def bmi(height,weight)
+
+  weight / ((height/100)*(height/100))
+
+end
+
+puts bmi(168.0,48.0)
